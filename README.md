@@ -1,5 +1,5 @@
 # Ex-06-Book-Cover-Design
-Ex-06-Book-Cover-Design
+
 NAME : RAMESH RENUKA
 
 REFERENCE NUMBER : 23009428
