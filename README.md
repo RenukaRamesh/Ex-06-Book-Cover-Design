@@ -28,7 +28,7 @@ Run the Html Program to see the results
 book.css :
 ```
 body {
-  background-image: url("kp.jpeg.jpg");
+  background-image: url("renuka.jpg");
   background-position : center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -118,7 +118,8 @@ font-size: 50px;
 </html>
 ```
 # OUTPUT :
-WhatsApp Image 2023-12-15 at 23 09 34_9cbc2a5d
+![WhatsApp Image 2023-12-20 at 10 47 06_c9e84eb5](https://github.com/RenukaRamesh/Ex-06-Book-Cover-Design/assets/145742979/ca114521-1724-451e-b85b-26e57e2addaf)
+
 
 # RESULT :
 The book cover design has been successfully created using HTML and CSS.
